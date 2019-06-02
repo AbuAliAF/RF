@@ -1,2 +1,2 @@
 # RFD
-Abot Administration in base Beyond 
+A bot administrations
